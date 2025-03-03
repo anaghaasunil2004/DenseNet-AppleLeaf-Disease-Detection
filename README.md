@@ -2,6 +2,8 @@
 
 This repository contains the implementation of **DenseNet121** for detecting apple leaf diseases using deep learning. The model classifies leaves into **Healthy, Rust, Scab, or Multiple Diseases** using transfer learning.
 
+![image](https://github.com/user-attachments/assets/fc648d8a-9d7e-426c-8205-b70d4d737345)![image](https://github.com/user-attachments/assets/5c8525cb-057d-4a16-af33-b9becdda3045)![image](https://github.com/user-attachments/assets/7373b489-1ca5-434c-b42b-bafe6d691db1)![image](https://github.com/user-attachments/assets/2fa3d99d-28da-4e52-b16c-b0571ecd1bdb)
+
 ## **Dataset**
 - Dataset: [Plant Pathology 2020 - FGVC7 | Kaggle](https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7)
 - Images of apple leaves for different diseases.
